@@ -32,15 +32,11 @@ I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My 
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr><th align="left" width="28%">Area</th><th align="left">Tools</th></tr>
-<tr><td><b>Languages</b></td><td><code>Python</code> <code>C++/C</code> <code>Go</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code> <code>Bash</code> <code>GLSL</code> <code>LaTeX</code></td></tr>
-<tr><td><b>Backend and Databases</b></td><td><code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>REST APIs</code> <code>WebSocket</code> <code>JWT</code></td></tr>
-<tr><td><b>Machine Learning and Robotics</b></td><td><code>PyTorch</code> <code>scikit-learn</code> <code>OpenCV</code> <code>ROS / ROS2</code> <code>Gazebo</code></td></tr>
-<tr><td><b>Scientific Computing</b></td><td><code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code> <code>MATLAB</code> <code>Numba</code></td></tr>
-<tr><td><b>Systems and DevOps</b></td><td><code>gRPC</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux</code> <code>MPI</code></td></tr>
-<tr><td><b>Developer Tools</b></td><td><code>Git</code> <code>GitHub</code> <code>Postman</code></td></tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tech-light.svg">
+  <img src="assets/tech-dark.svg" alt="Tech stack: Languages (Python, C++/C, Go, TypeScript, JavaScript, SQL, Bash, GLSL, LaTeX); Backend and Databases (Next.js, NestJS, PostgreSQL, Prisma, REST APIs, WebSocket, JWT); Machine Learning and Robotics (PyTorch, scikit-learn, OpenCV, ROS / ROS2, Gazebo); Scientific Computing (NumPy, Pandas, Matplotlib, MATLAB, Numba); Systems and DevOps (gRPC, Docker, Kubernetes, Linux, MPI); Developer Tools (Git, GitHub, Postman)" width="100%">
+</picture>
 
 ## 🚀 Projects
 
