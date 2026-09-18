@@ -51,7 +51,7 @@ I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My 
 
 More on my [portfolio](https://pranshuk22.github.io/projects/).
 
-## 📫 Find Me
+## 📫 Contact Me
 
 - <a href="https://pranshuk22.github.io/"><img src="assets/icons/portfolio.svg" width="18" height="18" align="absmiddle"> <b>Portfolio</b></a>
 - <a href="https://www.linkedin.com/in/pranshu-kumar-163797281/"><img src="assets/icons/linkedin.svg" width="18" height="18" align="absmiddle"> LinkedIn</a>
