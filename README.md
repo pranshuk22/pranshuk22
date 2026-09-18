@@ -6,11 +6,11 @@
   <img src="assets/banner-dark.svg" alt="Pranshu Kumar: software engineering, systems programming, machine learning and robotics" width="100%">
 </picture>
 
-**[Portfolio](https://pranshuk22.github.io/)** &nbsp;·&nbsp; **[Resume](https://pranshuk22.github.io/resume/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/pranshu-kumar-163797281/)** &nbsp;·&nbsp; **[Codeforces](https://codeforces.com/profile/irrational_integer)** &nbsp;·&nbsp; **[Email](mailto:pranshu23k@gmail.com)**
+<a href="https://pranshuk22.github.io/"><img src="assets/icons/portfolio.svg" width="16" height="16" align="absmiddle"> <b>Portfolio</b></a> &nbsp;·&nbsp; <a href="https://pranshuk22.github.io/resume/"><img src="assets/icons/resume.svg" width="16" height="16" align="absmiddle"> <b>Resume</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/pranshu-kumar-163797281/"><img src="assets/icons/linkedin.svg" width="16" height="16" align="absmiddle"> <b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:pranshu23k@gmail.com"><img src="assets/icons/mail.svg" width="16" height="16" align="absmiddle"> <b>Email</b></a>
 
 <br>
 
-<a href="https://pranshuk22.github.io/"><img src="assets/portfolio-button.svg" alt="Explore my portfolio" width="320"></a>
+<a href="https://pranshuk22.github.io/"><img src="assets/portfolio-button.svg" alt="Explore my website" width="240"></a>
 
 </div>
 
@@ -55,6 +55,5 @@ More on my [portfolio](https://pranshuk22.github.io/projects/).
 
 - <a href="https://pranshuk22.github.io/"><img src="assets/icons/portfolio.svg" width="18" height="18" align="absmiddle"> <b>Portfolio</b></a>
 - <a href="https://www.linkedin.com/in/pranshu-kumar-163797281/"><img src="assets/icons/linkedin.svg" width="18" height="18" align="absmiddle"> LinkedIn</a>
-- <a href="https://codeforces.com/profile/irrational_integer"><img src="assets/icons/codeforces.svg" width="18" height="18" align="absmiddle"> Codeforces</a> (Expert, peak rating 1608)
 - <a href="mailto:pranshu23k@gmail.com"><img src="assets/icons/mail.svg" width="18" height="18" align="absmiddle"> Email</a>
 - <a href="https://pranshuk22.github.io/resume/"><img src="assets/icons/resume.svg" width="18" height="18" align="absmiddle"> Resume</a>
