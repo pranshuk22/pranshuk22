@@ -13,7 +13,7 @@
 
 Final-year undergraduate at **IIT Kanpur**, majoring in **Electrical Engineering** and **Chemical Engineering** with minors in **Machine Learning**, **Computer Systems** and **Management Sciences**.
 
-I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My work spans full-stack engineering, systems programming, machine learning and robotics, with a growing interest in reinforcement learning. I enjoy turning complex technical problems into reliable, well-tested software.
+My interests span full-stack engineering, systems programming, machine learning and robotics, with a growing interest in reinforcement learning. I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). I enjoy turning complex technical problems into reliable, well-tested software.
 
 <div align="center">
 
