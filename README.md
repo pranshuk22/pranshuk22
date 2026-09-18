@@ -12,8 +12,6 @@
 
 <a href="https://pranshuk22.github.io/"><img src="assets/portfolio-button.svg" alt="Explore my portfolio" width="320"></a>
 
-<sub>Projects, experience and resume, all in one place</sub>
-
 </div>
 
 <br>
