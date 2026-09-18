@@ -6,6 +6,12 @@ I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My 
 
 🌐 **Portfolio:** [pranshuk22.github.io](https://pranshuk22.github.io/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranshuk22/pranshuk22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranshuk22/pranshuk22/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/pranshuk22/pranshuk22/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Tech stack
 
 | Area | Tools |
