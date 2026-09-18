@@ -44,7 +44,7 @@ I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My 
 <tr><td><b>Developer Tools</b></td><td><code>Git</code> <code>GitHub</code> <code>Postman</code></td></tr>
 </table>
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 - **[Computer Graphics: WebGL2 Rendering Engine](https://github.com/pranshuk22/CS360)**
 - **[Parallel Computing: 3D Stencil in MPI](https://github.com/pranshuk22/CS633-Assignments)**
