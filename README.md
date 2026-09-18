@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Pranshu Kumar: full-stack, systems, machine learning and robotics" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="Pranshu Kumar: software engineering, systems programming, machine learning and robotics" width="100%">
+</picture>
 
 **[Portfolio](https://pranshuk22.github.io/)** &nbsp;·&nbsp; **[Resume](https://pranshuk22.github.io/resume/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/pranshu-kumar-163797281/)** &nbsp;·&nbsp; **[Codeforces](https://codeforces.com/profile/irrational_integer)** &nbsp;·&nbsp; **[Email](mailto:pranshu23k@gmail.com)**
 
