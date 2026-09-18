@@ -8,6 +8,12 @@
 
 **[Portfolio](https://pranshuk22.github.io/)** &nbsp;·&nbsp; **[Resume](https://pranshuk22.github.io/resume/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/pranshu-kumar-163797281/)** &nbsp;·&nbsp; **[Codeforces](https://codeforces.com/profile/irrational_integer)** &nbsp;·&nbsp; **[Email](mailto:pranshu23k@gmail.com)**
 
+<br>
+
+<a href="https://pranshuk22.github.io/"><img src="assets/portfolio-button.svg" alt="Explore my portfolio" width="320"></a>
+
+<sub>Projects, experience and resume, all in one place</sub>
+
 </div>
 
 <br>
@@ -26,18 +32,19 @@ I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My 
 
 </div>
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
-| Area | Tools |
-| :--- | :--- |
-| **Languages** | `Python` `C++/C` `Go` `TypeScript` `JavaScript` |
-| **Backend and databases** | `Next.js` `NestJS` `PostgreSQL` `Prisma` |
-| **Machine learning and robotics** | `PyTorch` `scikit-learn` `OpenCV` `ROS / ROS2` |
-| **Scientific computing** | `NumPy` `Pandas` `Matplotlib` `MATLAB` |
-| **Systems and DevOps** | `gRPC` `Docker` `Kubernetes` `Linux` |
-| **Developer tools** | `Git` `GitHub` `Postman` `Bash` |
+<table width="100%">
+<tr><th align="left" width="28%">Area</th><th align="left">Tools</th></tr>
+<tr><td><b>Languages</b></td><td><code>Python</code> <code>C++/C</code> <code>Go</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code> <code>Bash</code> <code>GLSL</code> <code>LaTeX</code></td></tr>
+<tr><td><b>Backend and Databases</b></td><td><code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>REST APIs</code> <code>WebSocket</code> <code>JWT</code></td></tr>
+<tr><td><b>Machine Learning and Robotics</b></td><td><code>PyTorch</code> <code>scikit-learn</code> <code>OpenCV</code> <code>ROS / ROS2</code> <code>Gazebo</code></td></tr>
+<tr><td><b>Scientific Computing</b></td><td><code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code> <code>MATLAB</code> <code>Numba</code></td></tr>
+<tr><td><b>Systems and DevOps</b></td><td><code>gRPC</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux</code> <code>MPI</code></td></tr>
+<tr><td><b>Developer Tools</b></td><td><code>Git</code> <code>GitHub</code> <code>Postman</code></td></tr>
+</table>
 
-## 🚀 Selected projects
+## 🚀 Selected Projects
 
 - **[Computer Graphics: WebGL2 Rendering Engine](https://github.com/pranshuk22/CS360)**
 - **[Parallel Computing: 3D Stencil in MPI](https://github.com/pranshuk22/CS633-Assignments)**
@@ -46,9 +53,10 @@ I recently interned as a Software Engineer at **Samsara** (May to Jul 2026). My 
 
 More on my [portfolio](https://pranshuk22.github.io/projects/).
 
-## 📫 Find me
+## 📫 Find Me
 
-- [LinkedIn](https://www.linkedin.com/in/pranshu-kumar-163797281/)
-- [Codeforces](https://codeforces.com/profile/irrational_integer) (Expert, peak rating 1608)
-- [Email](mailto:pranshu23k@gmail.com)
-- [Resume](https://pranshuk22.github.io/resume/)
+- <a href="https://pranshuk22.github.io/"><img src="assets/icons/portfolio.svg" width="18" height="18" align="absmiddle"> <b>Portfolio</b></a>
+- <a href="https://www.linkedin.com/in/pranshu-kumar-163797281/"><img src="assets/icons/linkedin.svg" width="18" height="18" align="absmiddle"> LinkedIn</a>
+- <a href="https://codeforces.com/profile/irrational_integer"><img src="assets/icons/codeforces.svg" width="18" height="18" align="absmiddle"> Codeforces</a> (Expert, peak rating 1608)
+- <a href="mailto:pranshu23k@gmail.com"><img src="assets/icons/mail.svg" width="18" height="18" align="absmiddle"> Email</a>
+- <a href="https://pranshuk22.github.io/resume/"><img src="assets/icons/resume.svg" width="18" height="18" align="absmiddle"> Resume</a>
